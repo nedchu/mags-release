@@ -1,16 +1,26 @@
 # Graph Summarization: Compactness Meets Efficiency
 
-Paper Link: [TODO: link of paper]
 
-This repository contains a reference implementation of our SIGMOD 2024 paper:
+This repository contains a reference implementation of our SIGMOD 2024 paper ([link to paper](https://nedchu.github.io/sigmod2024.pdf)):
 
 > Graph Summarization: Compactness Meets Efficiency. Deming Chu, Fan Zhang, Wenjie Zhang, Ying Zhang, Xuemin Lin. SIGMOD 2024.
 
-
+Note: If there is any issue, please contact ned.deming.chu@gmail.com
 
 Please cite our paper if you use the code:
 
-[TODO: bixtex]
+``` bibtex
+@article{chu2024graph,
+  title={Graph Summarization: Compactness Meets Efficiency},
+  author={Chu, Deming and Zhang, Fan and Zhang, Wenjie and Zhang, Ying and Lin, Xuemin},
+  journal={Proceedings of the ACM on Management of Data},
+  volume={2},
+  number={3},
+  pages={1--26},
+  year={2024},
+  publisher={ACM New York, NY, USA}
+}
+```
 
 ## Requirements
 
